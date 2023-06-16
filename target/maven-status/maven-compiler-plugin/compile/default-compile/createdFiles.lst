@@ -1,0 +1,11 @@
+com\reportmanagement\requests\SearchRequest.class
+com\reportmanagement\repository\CitizenPlanRepository.class
+com\reportmanagement\entity\CitizenPlan.class
+com\reportmanagement\runner\DataLoader.class
+com\reportmanagement\service\CitizenPlanService.class
+com\reportmanagement\utils\PdfGenerator.class
+com\reportmanagement\ReportGenerationMiniProjectApplication.class
+com\reportmanagement\utils\MailService.class
+com\reportmanagement\controllers\CitizenPlanController.class
+com\reportmanagement\service\CitizenPlanServiceImpl.class
+com\reportmanagement\utils\ExcelGenerator.class
